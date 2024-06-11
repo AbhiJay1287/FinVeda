@@ -29,29 +29,3 @@ FinVeda is a dynamic financial literacy app that'll help you Learn finance with 
 - Finance Quiz</strong>
    
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
-### 💵 How to Contribute
-
-   ```bash
-   # Fork the repository to your GitHub account.
-   # Clone the forked repository to your local machine.
-   git clone https://github.com/ayush-that/FinVeda.git
-
-   # Create a new branch for your changes.
-   git checkout -b feature/your-feature
-
-   # Make your changes, whether they're bug fixes, new features, or improvements.
-   # Commit your changes with descriptive commit messages.
-   git commit -m "Add your descriptive commit message here"
-   git push origin feature/your-feature
-
-   # Open a Pull Request (PR) against the main repository.
-   # Your contribution will be reviewed and merged into the main repository.
-   ```
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-### 🪪 License
-
-FinVeda is free and open-source software licensed under the GNU General Public License v3.0. It was built at IIT Jammu's Udyamitsav'24 Hackathon where it stood first in the GenAI track and third overall.
